@@ -1,0 +1,8 @@
+name: PlayerInfoUI
+version: 1.0.0
+author: VsrStudio
+main: PlayerInfoUI\Main
+api: [5.0.0]
+commands:
+  playerinfo:
+    description: Menampilkan informasi pemain
